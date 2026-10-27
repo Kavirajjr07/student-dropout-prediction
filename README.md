@@ -1,1 +1,5 @@
-# student-dropout-prediction
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
